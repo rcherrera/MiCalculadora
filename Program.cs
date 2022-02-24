@@ -10,6 +10,7 @@ namespace MiCalculadora
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+        /// //comentario
         [STAThread]
         static void Main()
         {
