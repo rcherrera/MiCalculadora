@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+
+
 namespace MiCalculadora
 {
     public partial class Form1 : Form

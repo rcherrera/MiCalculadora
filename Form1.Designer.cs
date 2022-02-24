@@ -175,7 +175,7 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.DarkKhaki;
-            this.button1.Location = new System.Drawing.Point(479, 100);
+            this.button1.Location = new System.Drawing.Point(490, 100);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(117, 77);
             this.button1.TabIndex = 12;
